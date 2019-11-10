@@ -1,0 +1,36 @@
+name: workshop-python
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - altair
+  - pandas
+  - numpy
+  - python=3.6
+  - matplotlib
+  - bokeh
+  - jupyter
+  - jupyterlab
+  - nodejs
+  - nbconvert
+  - widgetsnbextension
+  - ipykernel
+  - openpyxl
+  - xlrd
+  - googlemaps
+  - ipykernel
+  - ipywidgets
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - sympy
+  - pyyaml
+  - traittypes
+  - invoke
+  - pip
+  - pip:
+     - altair_data_server
+     - savReaderWriter
+     - duodata==0.2.1
+     - pandas-profiling
