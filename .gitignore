@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+notebooks/haalbaarheid en stress/nse_data.csv.zip
+
+.vscode/settings.json
